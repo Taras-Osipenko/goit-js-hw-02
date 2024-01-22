@@ -1,4 +1,4 @@
-let message = 0;
+
 
 function checkForSpam(message) {
    if (message.toLowerCase().includes("spam") || message.toLowerCase().includes("sale")) {
